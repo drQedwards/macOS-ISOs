@@ -2,7 +2,8 @@
 
 > [!CAUTION]
 > Hello, as you may have noticed, this repo hasen't been updated in quite some time. This is sadly due to my lack of time and some personal issues. I do still plan on updating this repo again in the future, but I can't give any ETA on when that will be. Thank you for your understanding!
-[UPDATE](https://archive.org/details/macos_iso)]
+> 
+> [UPDATE](https://archive.org/details/macos_iso)]
 > a collaborator came in for free to bring in a minor update for the dev by handing a link of the direct ISO files which can extracred and turned into a .zip file from source,
 > dr Q
 
